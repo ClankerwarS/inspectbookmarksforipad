@@ -1,5 +1,5 @@
 # inspectbookmarksforipad
-This just allows you to inspect on devices like iPhone and iPad, I don’t know what I’m doing by the way but it still works -.-
+This just allows you to inspect on devices like iPhone and iPad 
 what to do is below
 step 1: copy and paste this code
 step 2: go to google, add google to bookmark
